@@ -1,6 +1,6 @@
 **Final MT2013 Project:** Analyzing the impact of related factors on GPU core speed
 
-**•	Building a Multiple Linear Regression Model: describes how a multiple linear regression model is built to assess the factors affecting GPU core speed.**
+**1.	Building a Multiple Linear Regression Model: describes how a multiple linear regression model is built to assess the factors affecting GPU core speed.**
 
    o	Model Building: details the steps involved in building the regression model.
    
@@ -15,7 +15,7 @@
    o	Speed Prediction: describes how the model is used to predict GPU core speed.
    
 
-**•	Building a Multivariate ANOVA Model: describes how a multivariate ANOVA model is built to assess the influence of categorical variables on GPU core speed.**
+**2.	Building a Multivariate ANOVA Model: describes how a multivariate ANOVA model is built to assess the influence of categorical variables on GPU core speed.**
 
   o	Model Building: details the steps involved in building the ANOVA model. 
   
