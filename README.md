@@ -1,4 +1,4 @@
-Final MT2013 Project: Analyzing the impact of related factors on GPU core speed
+**Final MT2013 Project:** Analyzing the impact of related factors on GPU core speed
 
 **•	Building a Multiple Linear Regression Model: describes how a multiple linear regression model is built to assess the factors affecting GPU core speed.**
 
